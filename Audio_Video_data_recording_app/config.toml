@@ -1,0 +1,8 @@
+[audio]
+channels = 1
+
+[webcam]
+index = 0
+
+[transcript]
+path = "mc_transcript.json"
